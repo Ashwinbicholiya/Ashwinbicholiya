@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinbicholiya&repo=Food-Delivery-App&theme=light" />
 </a>
 <a href="https://github.com/Ashwinbicholiya/scanpay">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinbicholiya&repo=scanpayX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinbicholiya&repo=scan-payX&theme=light" />
 </a>
 
 <div align="center">
