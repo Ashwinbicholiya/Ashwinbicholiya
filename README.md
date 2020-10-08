@@ -38,10 +38,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashwinbicholiya&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/Ashwinbicholiya/Food-delivery-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinbicholiya&repo=Food-Delivery-App&theme=light" />
 </a>
 <a href="https://github.com/Ashwinbicholiya/scanpay">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinbicholiya&repo=Scan&PayX&theme=light" />
 </a>
 
 <div align="center">
