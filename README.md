@@ -14,10 +14,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [ScanPay]
+- 🔭 I’m currently working on [ScanPay](https://github.com/Ashwinbicholiya/scanpay)
 - 🌱 I’m currently learning more about Python,Mobile App Development.
 - 👯 I’m looking to collaborate on App development.
-- 🤔 I’m looking for help with [ScanPay Project!]()
+- 🤔 I’m looking for help with [ScanPay Project](https://github.com/Ashwinbicholiya/scanpay)
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Linkedin- @Ashwinbicholiya](https://www.linkedin.com/in/ashwin-bicholiya-9938481a0/), [Instagram- @Ashwinbicholiya](https://www.instagram.com/ashwinbicholiya/?hl=en)
 - 😄 Pronouns: He/his
