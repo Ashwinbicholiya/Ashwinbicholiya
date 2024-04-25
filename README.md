@@ -14,14 +14,13 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [ScanPay](https://github.com/Ashwinbicholiya/scanpay)
-- 🌱 I’m currently learning more about Python,Mobile App Development.
-- 👯 I’m looking to collaborate on App development.
-- 🤔 I’m looking for help with [ScanPay Project](https://github.com/Ashwinbicholiya/scanpay)
-- 💬 Ask me about Flutter or any tech related stuff.
+- 🔭 I'm Ashwin working in Tcs and I'm from indore,India currently living in Guadalajara, Mexico.
+- 🌱 Uses Google cloud components such as Big query, Data flow jobs, Pub Sub, Google Secret Manager.
+- 👯 Deployed Webservices and UI application to Gcloud using Ci/Cd pipelines Jenkins, Spinnaker.
+- 🤔 Programming: Java, Spring Framework, Node
+- 💬 Android Development: Flutter(Dart)
 - 📫 How to reach me: [Linkedin- @Ashwinbicholiya](https://www.linkedin.com/in/ashwin-bicholiya-9938481a0/), [Instagram- @Ashwinbicholiya](https://www.instagram.com/ashwinbicholiya/?hl=en)
 - 😄 Pronouns: He/his
-- ⚡ Fun fact:  I spend almost 6 hours listening songs everyday.
 
 **Languages and Tools:**  
 
